@@ -47,7 +47,7 @@ body {
 
 img {
     border-radius: 12px;
-    width: 290px;
+    width: 280px;
 }
 
 .image {
@@ -62,7 +62,7 @@ img {
 }
 
 h1 {
-    font-size: 21px;
+    font-size: 23px;
     font-weight: 700;
     text-align: center;
     color: var(--clr-dark-blue);
