@@ -16,7 +16,7 @@
     padding: 0;
     border: 0;
     box-sizing: border-box;
-    line-height: calc(1.2em + 0.2rem);
+    line-height: calc(1.1em + 0.2rem);
     font-family:'Outfit', sans-serif;
 }
 
@@ -60,7 +60,7 @@ img {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 700;
     text-align: center;
     color: var(--clr-dark-blue);
