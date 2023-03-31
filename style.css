@@ -75,6 +75,10 @@ p {
     color: var(--clr-grayish-blue);
 }
 
+.br {
+    display: block;
+    margin-bottom: 0.5em;
+}
 
 
 
